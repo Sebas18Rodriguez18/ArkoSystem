@@ -114,6 +114,6 @@ con apoyo del **[CLEM - Centro Latinoamericano de Especies Menores](https://sena
 
 ### 👩‍💻 Aprendices desarrolladores
 
-- [Juan Sebastian Rodriguez Cruz](https://github.com/Sebas18Rodriguez18)  
-- [Lina Vanessa Salcedo Cuellar](https://github.com/Linavs18)  
-- [Juan Fernando Velásquez Sarmiento](https://github.com/H2kl0) 
+- [Lina Vanessa Salcedo Cuellar](https://github.com/Linavs18)  (Gestión de base de datos y Backend)
+- [Juan Sebastian Rodriguez Cruz](https://github.com/Sebas18Rodriguez18)  (Frontend y Backend básico)
+- [Juan Fernando Velásquez Sarmiento](https://github.com/H2kl0) (Backend)
