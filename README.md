@@ -108,9 +108,12 @@ arkosystem/
 
 ## 📚 Créditos
 
-Proyecto desarrollado como actividad del **SENA (Servicio Nacional de Aprendizaje)** dentro del programa de **Análisis y Desarrollo de Software (ADSO)**.
+Proyecto desarrollado como actividad del **[SENA](https://www.sena.edu.co) (Servicio Nacional de Aprendizaje)**,  
+en el programa de **Análisis y Desarrollo de Software (ADSO)**,  
+con apoyo del **[CLEM - Centro Latinoamericano de Especies Menores](https://sena-clem.blogspot.com)**.
 
-**Elaborado por:**
-- Lina Vanessa Salcedo Cuellar
-- Juan Fernando Velasquez Sarmiento
-- Juan Sebastian Rodriguez Cruz
+### 👩‍💻 Aprendices desarrolladores
+
+- [Juan Sebastian Rodriguez Cruz](https://github.com/Sebas18Rodriguez18)  
+- [Lina Vanessa Salcedo Cuellar](https://github.com/Linavs18)  
+- [Juan Fernando Velásquez Sarmiento](https://github.com/H2kl0) 
